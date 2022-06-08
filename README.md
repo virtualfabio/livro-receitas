@@ -1,3 +1,3 @@
-# Livreo de Receitas
+# Livro de Receitas
 
 
